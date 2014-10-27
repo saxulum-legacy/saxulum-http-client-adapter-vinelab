@@ -12,7 +12,7 @@
 ## Requirements
 
  * PHP 5.3+
- * Vinelab ~1.1
+ * Vinelab ~1.1 (PHP 5.4+)
 
 ## Installation
 
